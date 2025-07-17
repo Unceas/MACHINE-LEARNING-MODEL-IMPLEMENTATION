@@ -1,4 +1,4 @@
-NName: Ayush Kushwaha
+Name: Ayush Kushwaha
 
 Company: CODTECH IT SOLUTIONS
 
@@ -8,7 +8,6 @@ Domain: Python Programming
 
 Duration: 6 weeks
 
-Mentor: Muzammil Ahmed
 
 Task4: 
 # MACHINE-LEARNING-MODEL-IMPLEMENTATION
